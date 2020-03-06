@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.container{
+    margin-top: 12px;
+    padding-top: 12px;
+}
+h1{
+    font-size: 10px;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#customColor{
+    background-color:  #475770;
+    
+}
+#textColor {
+    color: whitesmoke;
+}
+#textColor:hover{
+    color:#f2a54e
+}
+.col-md-8{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.form-group{
+    margin-top: 30px;
+}
+.col-md-4{
+    margin: 0px;
+    padding-left: 135px;
+    align-content: center;
+}
+#info{
+    margin: 5px;
+}
+#left-info{
+    text-align: left;
+
+}
+#right-info{
+    align-content: right;
+}
+.page-footer{
+    margin-top:100px;
+    
+    background-color: #475770;
+    color: whitesmoke ;
+}

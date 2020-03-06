@@ -1,0 +1,70 @@
+
+.container-fluid
+{
+margin:0px;
+padding: 0px;
+
+}
+#customColour{
+    margin:0px;
+    padding:0px;
+    background:#475770;
+
+}
+
+#button1 {
+    background:#475770;
+    margin-top: 50px;
+    font-size: 28px;
+    color:white;
+  }
+
+  body{
+    background-image: url(images/clg.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: new time 'Times New Roman'
+
+}
+
+
+#form{
+    font-size: 25px;
+    margin-top: 25px;
+    
+}
+.form-outer{
+    background-color:black;
+    border-radius: 8vh;
+    padding: 50px;
+    margin: 3px;;
+    background: rgba(71, 87, 112, 0.5); /* Black background with 0.5 opacity */
+    color:black;
+    
+}
+
+.btn-primary{
+    
+    background:grey;
+    margin-top: 20px;
+    min-width: 140px;
+    color:black;
+}
+#row{
+    height:105vh;
+}
+.btn-default{
+    background:rgb(60, 180, 250);
+}
+
+#nb{
+    border:2px solid green;
+}
+#r{
+ margin-top:50px;
+}
+/*.page-footer{
+    margin-top:50px;
+    background-color: #303a49;
+    color:#ff3366 ;
+}*/

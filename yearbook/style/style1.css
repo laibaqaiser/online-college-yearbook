@@ -1,0 +1,98 @@
+.container-fluid{
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+#customColor{
+    background-color: #475770;
+    
+}
+#textColor {
+    color: whitesmoke;
+}
+#textColor:hover{
+    color:#f2a54e
+}
+body{
+    /*background-image: url(images/pic4.jpg);*/
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: new time 'Times New Roman'
+}
+.img-fluid
+{
+    color:white;
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position: center;  
+    border: none;
+}
+.center-block {
+    display: block;
+    margin-top: 100px;
+    margin-bottom:100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#row1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#8790ab;
+}
+#row2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#d6d5f2;
+}
+#row3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffe6f9;
+}
+#content-center{
+    margin:70px;
+}
+.page-footer{
+    background-color: #475770;
+    color:#ff3366 ;
+}
+.form-outer{
+    background-color:#475770;  
+    margin-top: 0px;
+    color: #f1f1f1;  
+}
+.form-inner{
+    background-color:#475770; 
+    margin: 50px;
+}
+#form-textColor{
+    color: white;
+}
+.input-container {
+   display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.icon {
+  padding: 10px;
+  background:#ff3366;
+  color: yellow;
+  min-width: 50px;
+  text-align: center;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+.btn-danger{
+    margin-top: 5px;
+    margin-left: 50px;
+    width: 210x;
+    font-size: 18px;
+    position: relative;
+    background: #ff3366;
+}
+#col2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#d6d5f2;
+}

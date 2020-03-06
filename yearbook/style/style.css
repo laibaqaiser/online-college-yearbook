@@ -1,0 +1,79 @@
+.container-fluid{
+    height: 100%;
+}
+#customColor{
+    background-color: #475770;
+    
+}
+#textColor {
+    color: whitesmoke;
+}
+#textColor:hover{
+    color:#f2a54e
+}
+body{
+    background-image: url(images/picc.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: new time 'Times New Roman'
+
+}
+h1{
+    font-size: 45px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.form-outer{
+    background-color:black;
+    border-radius: 8vh;
+    padding: 50px;
+    margin: 3px;;
+    background: rgba(71, 87, 112, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    
+}
+small{
+    font-size: 18px;
+    color:white;
+    margin-left: 8px;
+}
+p{
+    margin-top: 20px;
+    font-size: 19px;
+    color: white;
+}
+.btn-danger{
+   
+    margin-top: 5px;
+    margin-left: 50px;
+    width: 310px;
+    font-size: 18px;
+    position: relative;
+    background:#ff3366;
+    color: yellow;
+}
+#form-textColor{
+    color: white;
+}
+.input-container {
+   display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.icon {
+  padding: 10px;
+  background :#ff3366;
+  color: yellow;
+  min-width: 50px;
+  text-align: center;
+  
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}

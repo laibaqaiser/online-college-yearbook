@@ -1,0 +1,62 @@
+.container-fluid{
+    height: 100%;
+}
+body{
+    font-family: new time 'Times New Roman'
+
+}
+#color{
+    background-color:black;
+    text-emphasis-color: #54b2c4;
+    height:70px;
+    border:solid #475770;
+    margin-right: 0px;
+}
+h3{
+    font-size: 35px;
+    color:#54b2c4;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#customColor{
+    background-color: #475770;
+    
+}
+#textColor {
+    color: whitesmoke;
+}
+#textColor:hover{
+    color:#f2a54e
+}
+#image{
+    padding-left: 200px;
+    padding-top: 50px;
+    width: auto;
+
+}
+#events{
+    margin-right: 0px;
+    margin-left: 0px;
+
+}
+
+h1{
+    font-size: 30px;
+    color: #54b2c4;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+p{
+   margin-right: 0px;
+    font-size: 19px;
+    color: black;
+}
+#navData{
+    padding-right: 100px;
+    align-content: center;
+}
+#textColor{
+    padding-left: 50px;
+}
